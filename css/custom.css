@@ -1,0 +1,10 @@
+html, body {
+    font-family: 'Bai Jamjuree', sans-serif !important;
+}
+
+.banner {
+    background: url("https://www.blognone.com/sites/default/files/externals/c397c2c3b9252ce4bc4fc4833e1777b7.jpg")  rgba(255, 0, 150, 0.3);
+    background-size:cover;
+    background-blend-mode: multiply;
+    min-height:100%;
+}
